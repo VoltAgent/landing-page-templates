@@ -1,5 +1,9 @@
 # Landing Page Templates for Products That Need More Than a Homepage
 
+Template: [Startup Website on getdesign.md](https://getdesign.md/landing-page-templates/startup-website-template) · Live demo: [startup-website-template.getdesign.md](https://startup-website-template.getdesign.md/)
+
+[![Startup Website landing page template demo, hero section](assets/startup-website-template-hero.jpg)](https://getdesign.md/landing-page-templates/startup-website-template)
+
 Search for **landing page templates** and most results solve the same problem: they give you a hero, a few feature cards, a pricing section, and a footer.
 
 That can be exactly enough. If you need one page to collect emails or explain a service, a finished HTML template is a sensible shortcut.
@@ -27,9 +31,9 @@ This README looks at those two cases through two paid starter kits from getdesig
 
 ## For a web app or SaaS product
 
-[![Website Starter Kit landing page template hero](assets/website-starter-kit-hero.jpg)](https://getdesign.md/website-starter-kit)
+[![Product section of the Startup Website template demo](assets/startup-website-template-app.jpg)](https://getdesign.md/landing-page-templates/startup-website-template)
 
-The [Website Starter Kit](https://getdesign.md/website-starter-kit) is for browser-based products where the landing page needs to lead into a working application.
+The [Website Starter Kit](https://getdesign.md/website-starter-kit) is for browser-based products where the landing page needs to lead into a working application. The [Startup Website template](https://getdesign.md/landing-page-templates/startup-website-template) is one of its looks, and the screenshots on this page come from its [live demo](https://startup-website-template.getdesign.md/).
 
 The codebase includes the marketing site, authentication, payments, AI chat and knowledge search, email, analytics, file uploads, multi-language support, and the content pages a product usually needs after launch. Blog, documentation, legal pages, SEO, and LLMO are part of the same project rather than separate tasks for later.
 
@@ -53,9 +57,11 @@ The complete source is included. It is a one-time purchase rather than a hosted 
 
 ## For an iOS and Android app
 
-[![Mobile Starter Kit landing page template hero](assets/mobile-starter-kit-hero.jpg)](https://getdesign.md/mobile-starter-kit)
-
 A mobile app has a different version of the same gap. A mobile landing page template can explain the app and link to the stores, but it cannot give you the app that belongs in those stores.
+
+[![Pricing section of the Startup Website template demo, billed through the app stores](assets/startup-website-template-pricing.jpg)](https://startup-website-template.getdesign.md/)
+
+The [Startup Website template](https://getdesign.md/landing-page-templates/startup-website-template) covers that public page: store badges, app screens, and a pricing band written for Apple and Google billing.
 
 The [Mobile Starter Kit](https://getdesign.md/mobile-starter-kit) starts with the application itself. It is one Expo and React Native codebase for iOS and Android, with the common flows already running on sample data.
 
